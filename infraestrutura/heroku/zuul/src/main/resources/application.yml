@@ -11,6 +11,5 @@ eureka:
     hostname: zuul-unialfa.herokuapp.com
   client:
     service-url:
-      defaultZone: https://eureka-unialfa.herokuapp.com/eureka/
+      defaultZone: https://trabalhoalfa-eureka.herokuapp.com/eureka/
     healthcheck: true
-

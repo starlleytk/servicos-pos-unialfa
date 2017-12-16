@@ -2,7 +2,7 @@ server:
   port: 0
 eureka:
   instance:
-    hostname: eureka-unialfa.herokuapp.com
+    hostname: trabalhoalfa-eureka.herokuapp.com
     secure-port-enabled: true
     non-secure-port-enabled: false
     statusPageUrl: https://${eureka.instance.hostname}/info
